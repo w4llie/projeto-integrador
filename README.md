@@ -1,6 +1,6 @@
 # Projeto-Integrador
 
-projeto, que faz parte da disciplina de Projeto Integrador, consiste em um website para que os pequenos empreendedores do município de Itapajé possam divulgar seus produtos e serviços.
+Este projeto, que faz parte da disciplina de Projeto Integrador, consiste em um website para que os pequenos empreendedores do município de Itapajé possam divulgar seus produtos e serviços.
 
 # Membros da Equipe e Orientador
 
